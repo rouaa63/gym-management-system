@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 /usr/share/gym-frontend/app.py
