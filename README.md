@@ -103,7 +103,9 @@ uvicorn main:app --reload
 **Verifikation:** Die automatisch generierte Swagger-Benutzeroberfläche,
 die alle Endpunkte auflistet.
 
-`screen3`: 
+`screen3`: <img width="1485" height="728" alt="لقطة الشاشة 2026-09-01 105357" src="https://github.com/user-attachments/assets/4f1d150a-42c4-42b1-b940-83bcbc649b0d" />
+
+
 
 
 
