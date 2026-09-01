@@ -103,7 +103,11 @@ uvicorn main:app --reload
 **Verifikation:** Die automatisch generierte Swagger-Benutzeroberfläche,
 die alle Endpunkte auflistet.
 
-`screen3`
+`screen3`: 
+
+
+
+
 
 **Verifikation:** Rückgabe von geseedeten Daten über `GET /members`.
 
