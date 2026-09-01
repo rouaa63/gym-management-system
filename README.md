@@ -113,7 +113,8 @@ die alle Endpunkte auflistet.
 
 **Verifikation:** Rückgabe von geseedeten Daten über `GET /members`.
 
-`screen4`
+`screen4` : <img width="1429" height="635" alt="image" src="https://github.com/user-attachments/assets/ec832f70-7799-437d-9038-e3be659ee611" />
+
 
 **Verifikation:** Erstellen einer neuen Buchung über `POST /bookings`
 (Demonstration der N:M-Beziehung zwischen Mitgliedern und Kursen).
