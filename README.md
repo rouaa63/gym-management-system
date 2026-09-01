@@ -119,7 +119,9 @@ die alle Endpunkte auflistet.
 **Verifikation:** Erstellen einer neuen Buchung über `POST /bookings`
 (Demonstration der N:M-Beziehung zwischen Mitgliedern und Kursen).
 
-`screen5`
+`screen5` : ![Uploading لقطة الشاشة 2026-09-01 105818.png…]()
+
+
 
 ### Schritt 3 – Tkinter-Frontend
 
