@@ -146,7 +146,8 @@ python3 app.py
 
 **Verifikation:** Buchung eines Kurses für ein Mitglied über die Oberfläche.
 
-`screen8`
+`screen8`: <img width="1182" height="509" alt="لقطة الشاشة 2026-09-01 110453" src="https://github.com/user-attachments/assets/ac41c624-52cb-4632-89ac-412309bd805d" />
+
 
 ### Schritt 4 – Paketierung als `.deb`
 
