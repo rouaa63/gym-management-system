@@ -140,7 +140,9 @@ python3 app.py
 
 **Verifikation:** Anlegen eines neuen Mitglieds über die Oberfläche.
 
-`screen7`
+`screen7`: <img width="712" height="362" alt="لقطة الشاشة 2026-09-01 110330" src="https://github.com/user-attachments/assets/34543d1d-a854-4788-9ea7-91ae00c8d2be" />
+
+
 
 **Verifikation:** Buchung eines Kurses für ein Mitglied über die Oberfläche.
 
