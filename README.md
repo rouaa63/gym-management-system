@@ -134,7 +134,9 @@ python3 app.py
 
 **Verifikation:** Die Startoberfläche des Frontends mit den drei Tabs.
 
-`screen6`
+`screen6` : <img width="1532" height="807" alt="لقطة الشاشة 2026-09-01 110228" src="https://github.com/user-attachments/assets/5b67657f-2b55-4228-98b9-030c5405cdbc" />
+
+
 
 **Verifikation:** Anlegen eines neuen Mitglieds über die Oberfläche.
 
