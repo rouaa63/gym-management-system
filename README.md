@@ -143,14 +143,10 @@ Installation unter Linux zu ermöglichen.
 sudo apt install ./gym-frontend-deb.deb
 ```
 
-**Verifikation:** Erfolgreiche Installation und Start der Anwendung.
-
-`screen9`
 
 ## Demo-Video
 
-Ein 8–10-minütiges Demo-Video des Systems ist hier verfügbar:
-**[Video-Link folgt]**
+Ein 8–10-minütiges Demo-Video des Systems ist hier verfügbar:https://youtu.be/ppxhwYo4cLQ
 
 ## Verwandtes Repository
 
