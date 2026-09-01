@@ -86,7 +86,8 @@ docker compose ps
 docker compose exec db psql -U <user> -d gymdb -c "SELECT * FROM members;"
 ```
 
-`screen2`
+`screen2`: <img width="1365" height="263" alt="image" src="https://github.com/user-attachments/assets/a2005254-af68-40d9-94d0-e646ef7d976c" />
+
 
 ### Schritt 2 – FastAPI-Backend
 
