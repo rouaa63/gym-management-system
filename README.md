@@ -77,7 +77,8 @@ docker compose up -d
 docker compose ps
 ```
 
-`screen1`
+`screen1`: <img width="1365" height="166" alt="image" src="https://github.com/user-attachments/assets/7a3bfdab-1cf1-46a4-a527-908333618f13" />
+
 
 **Verifikation:** Abfrage der geseedeten Daten direkt über `psql`.
 
